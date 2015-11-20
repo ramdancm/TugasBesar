@@ -1,0 +1,17 @@
+Project Tugas Besar :
+1. Membuat database bagi Pelayan
+Nama database : pemesanan
+Isi DataBase  : 1. antrian int(20) auto increment primary key,
+		2. no kursi int(20) not null,
+		3. pesanan varchar(20) not null.
+2. Membuat database bagi Pantry
+Nama database : s_barang (stok barang)
+Isi DataBase  : 1. id_stok varchar(10) primary key,
+		2. n_barang varchar (15) not null,
+		3. j_stok int(20) not null.
+3. Membuat database bagi koki
+Isi Database  : 1. antrian int(20) auto increment primary key,
+		2. no kursi int(20) not null,
+		3. s_pesanan enum('Selesai','Gagal','Stok habis').
+
+Untuk database selanjutnya silakan ditambahkan
