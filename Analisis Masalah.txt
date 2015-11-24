@@ -1,0 +1,21 @@
+1.	Analisis Masalah
+Dalam pembahasan analisis sistem yang sedang berjalan kami akan menjelaskan masalah yang dihadapi oleh restoran milik Pa Broto Azhari, diantaranya :
+•	Pelayan :
+o	Waktu yang dibutuhkan untuk memastikan makanan atau minuman cenderung lama.
+o	Pelayan kesulitan untuk memastikan apakah makanan atau minuman sudah dibuat oleh koki atau belum.
+•	Koki :
+o	Waktu yang dibutuhkan untuk memastikan ketersediaan bahan baku cenderung lama
+o	Koki kesulitan membaca tulisan pelayan.
+o	Koki kesulitan memanggil pelayan ketika makanan sudah siap, gagal atau bahan yang diperlukan kosong.
+•	Kasir :
+o	Penghitungan Total harga masih menggunakan cara manual.
+o	Pelaporan pendapatan restoran terkadang tidak konsisten karena masih menggunakan cara manual.
+•	Pantry :
+o	Pengecekan bahan baku masih menggunakan cara manual.
+o	Pemeriksaan bahan baku cenderung lama.
+o	Dalam memastikan bahan baku yang kadaluarsa cenderung lama.
+o	Karena pengecekan bahan baku cenderung lama maka persiapan bahan baku pun akan lama juga.
+•	Customer-Service :
+o	Kesulitan untuk memberikan Kuesioner pada pelanggan
+o	Dalam pendataan keluhan, kritik dan saran masih menggunakan media kuesioner tercetak
+o	Dalam pengolahan kuesionernya juga masih cenderung lama.
